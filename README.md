@@ -9,11 +9,13 @@ Recuperações simples com SELECT Statement
 
 Filtros com WHERE Statement
 ![select com where](https://github.com/caiogp/sql_desafio_dio_ecommerce/assets/34754694/d97a44bd-edc0-4a50-ba30-f9b250b85022)
+
 Crie expressões para gerar atributos derivados
 ![atributo](https://github.com/caiogp/sql_desafio_dio_ecommerce/assets/34754694/52ef82fc-fd6a-47fb-991e-11afd076f734)
 
 Defina ordenações dos dados com ORDER BY
 ![select com order by](https://github.com/caiogp/sql_desafio_dio_ecommerce/assets/34754694/b5974325-7182-4eeb-9c1b-9efdd61d9ae9)
+
 Condições de filtros aos grupos – HAVING Statement
 ![select having](https://github.com/caiogp/sql_desafio_dio_ecommerce/assets/34754694/bc3c1420-e9d1-4de6-8822-fbaa30fa3d3a)
 
